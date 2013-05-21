@@ -1,0 +1,24 @@
+{
+  "name": "byjson",
+  "description": "super-simple object-by-object Stream reader",
+  "homepage": "https://github.com/chrisdew/byjson",
+  "bugs": {
+    "url": "https://github.com/chrisdew/byjson/issues"
+  },
+  "version": "0.10.0",
+  "author": {
+    "name": "Chris Dew"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisdew/byjson"
+  },
+  "engine": [
+    "node >=0.4.0"
+  ],
+  "main": "./lib",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "byline": "~2.0.3"
+  }
+}
